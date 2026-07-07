@@ -1,6 +1,5 @@
 tasks:
 
-
 1. command to get cpu info using cat command  --->cat /proc/cpuinfo (lscpu)
 
 2. understand the linux file directory system ---> /
